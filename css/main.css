@@ -371,3 +371,6 @@ nav a:hover {
         page-break-after: avoid;
     }
 }
+
+/* login page bugg fix */
+.lognara { display: flex;}
